@@ -1,0 +1,17 @@
+﻿#toplist li {
+    padding-right: 50px;
+    font-size: 150%;
+}
+
+#toplist li a
+{
+    color: #EB6308;
+}
+
+#SiteName {
+    color: #EB9008;
+}
+
+#TopNavBar {
+    background-color: #F1F56A;
+}
